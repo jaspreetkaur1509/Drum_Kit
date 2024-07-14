@@ -1,2 +1,2 @@
-# Drum_Kit
+# Drum_Kit Project
 https://drumkitfile.netlify.app/
